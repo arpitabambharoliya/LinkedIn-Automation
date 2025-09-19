@@ -111,7 +111,7 @@ Each lead’s details are enriched and structured into **4 main columns**:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/linkedin-leadgen-n8n.git
+   git clone repo_link
    cd linkedin-leadgen-n8n
 2. Import the workflow into n8n:
     - Open n8n
