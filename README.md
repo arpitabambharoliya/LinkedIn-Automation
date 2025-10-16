@@ -92,19 +92,25 @@ Each lead’s details are enriched and structured into **4 main columns**:
 ### 3. Lead Scoring
 - **AI Agent:** Analyzes user’s profile .  
 - Scores the lead on a **1–10 scale**.  
-- Stores score in Google Sheets.  
+- Stores score in Google Sheets.
+
+  
+  ![alt text](https://github.com/arpitabambharoliya/LinkedIn-Automation/blob/main/Images/lead_scoring.PNG)
 
 ---
 
 ### 4. Engagement Automation
 1. **Connection Requests**  
-   - Using **Airtop nodes**, automatically sends LinkedIn connection requests to leads.  
+   - Using **Airtop nodes**, automatically sends LinkedIn connection requests to leads.
+  
+     ![alt text](https://github.com/arpitabambharoliya/LinkedIn-Automation/blob/main/Images/send_connection.PNG)
 
 2. **Draft Cold Emails**  
    - Fetches the user’s connections via Airtop.  
    - AI Agent generates personalized cold email drafts based on profile and company data.  
-   - Sends/email drafts for review or direct outreach.  
-
+   - Sends/email drafts for review or direct outreach.
+  
+     ![alt text](https://github.com/arpitabambharoliya/LinkedIn-Automation/blob/main/Images/send_message.PNG)
 ---
 
 ## Setup & Installation
